@@ -1,4 +1,4 @@
-# Underdiagnosis of Endometriosis: A Data-Driven Exploration
+# Underdiagnosis of Endometriosis
 
 ## Overview
 Endometriosis affects a significant proportion of women, yet remains widely underdiagnosed. This project explores evidence of underdiagnosis by examining symptom burden, hormonal abnormalities, and diagnosis status using structured survey data.
